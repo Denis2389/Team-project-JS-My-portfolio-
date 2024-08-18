@@ -1,7 +1,7 @@
 import Accordion from 'accordion-js';
 import 'accordion-js/dist/accordion.min.css';
 import Typed from 'typed.js';
-// import spriteSvg from '../img/icons.svg';
+import spriteSvg from '../img/icons.svg';
 new Accordion('.accordion-container', {
   showMultiple: true,
   duration: 800,
