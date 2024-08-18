@@ -39,16 +39,20 @@
   max-width: 100%;
   box-sizing: border-box;
 }
+
+.benefit-icon-wrap {
+  margin-bottom: 64px;
+  width: 48px;
+  background: var(--accent-color);
+  padding: 12px;
+  border-radius: 10px;
+}
   
 .benefit-icon {
-  background: var(--accent-color);
-  border-radius: 10px;
-  padding: 12px;
-  margin-bottom: 64px;
   stroke: #fafafa;
   fill: none;
 }
-  
+
 .benefit-title {
   font-size: 20px;
   font-weight: 600;
