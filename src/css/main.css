@@ -1,4 +1,6 @@
 @import url('./faq.css');
+@import url('./benefits.css');
+@import url('./reset.css');
 
 :root {
   --main-bg-color: #1c1d20;
