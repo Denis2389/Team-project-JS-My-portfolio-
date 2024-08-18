@@ -16,9 +16,9 @@
 /* @import url('./layout/hero.css'); */
 /* @import url('./layout/mobile-menu.css'); */
 /* @import url('./layout/about-me.css'); */
-/* @import url('./layout/benefits.css'); */
+@import url('./layout/benefits.css');
+/* @import url('./layout/projects.css'); */
 
-@import url('./layout/projects.css');
 @import url('./layout/faq.css');
 
 /* @import url('./layout/covers.css'); */
