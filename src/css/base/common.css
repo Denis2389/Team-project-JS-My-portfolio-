@@ -1,0 +1,14 @@
+body {
+  font-family: 'InterTight', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--main-text-color);
+  background-color: var(--main-bg-color);
+}
+
+.hover-animation {
+  transition: border-color var(--default-duration) var(--timing-function),
+    background-color var(--default-duration) var(--timing-function),
+    stroke var(--default-duration) var(--timing-function),
+    color var(--default-duration) var(--timing-function);
+}
