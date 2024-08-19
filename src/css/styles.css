@@ -21,7 +21,7 @@
 
 @import url('./layout/faq.css');
 
-/* @import url('./layout/covers.css'); */
+@import url('./layout/covers.css');
 /* @import url('./layout/reviews.css'); */
 /* @import url('./layout/footer.css'); */
 /* @import url('./layout/modal-window.css'); */
